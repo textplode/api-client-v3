@@ -1,9 +1,9 @@
 <h1>Textplode API v3</h1>
 API Client files for Textplode
 
-You first need to create an account at http://www.textplode.com and generate an API key in your user settings.
+You first need to create an account at <a target="_blank" href="http://www.textplode.com">http://www.textplode.com</a> and generate an API key in your user settings.
 
-Documentation can be found at http://api.textplode.com/docs
+Documentation can be found at <a target="_blank" href="http://api.textplode.com/docs">http://api.textplode.com/docs</a>
 
 <h2>Examples</h2>
 <h3>Send to a Single Recipient</h3>
