@@ -1,4 +1,4 @@
-<?
+<?php
 
 class TP_Account{
 

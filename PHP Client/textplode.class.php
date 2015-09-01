@@ -1,4 +1,4 @@
-<?
+<?php
 
 require_once('account.class.php');
 require_once('activity.class.php');
